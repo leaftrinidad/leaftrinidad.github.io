@@ -1,5 +1,5 @@
 # leaftrinidad.github.io
-` dahon lng po :)
-` plat 1
-![fade main](https://static.wikia.nocookie.net/valorant/images/e/e8/Fade_Artwork_Full.png/revision/latest/scale-to-width-down/1000?cb=20220810202738)
-`
+-dahon lng po :)
+-plat 1
+![fade main](https://gamingnews.live/img/1654606006_VALORANT-Riot-created-Fade-to-compete-against-Sova.jpg)
+
