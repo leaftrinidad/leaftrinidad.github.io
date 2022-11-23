@@ -6,6 +6,8 @@
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/47IJAEuqiu4r1dEoEExfMA?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7aTIDXNGJvpT5zcJ7y024Y?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3ciqhcLmXP4hVGBD98QlEj?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3OdkC5pG8vc26S26qHyBo8?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
