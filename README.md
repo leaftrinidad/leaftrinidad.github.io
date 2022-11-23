@@ -1,6 +1,6 @@
 # leaftrinidad.github.io
 
-<img src="https://64.media.tumblr.com/ce2c0a1e4201e493dd272c0dc6eaaa6c/df8dc8d6798979e4-e7/s1280x1920/074143709ce70c50c4c9dda75af50345aac7f4a4.pnj" width=400>
+<img src="https://64.media.tumblr.com/ce2c0a1e4201e493dd272c0dc6eaaa6c/df8dc8d6798979e4-e7/s1280x1920/074143709ce70c50c4c9dda75af50345aac7f4a4.pnj" width=900>
 
 - dahon lng po ako :(
 - yousei teikoku <3
